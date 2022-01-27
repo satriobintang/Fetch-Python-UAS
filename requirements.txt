@@ -1,0 +1,5 @@
+mysql.connector
+urllib.request 
+json
+tabulate
+os
