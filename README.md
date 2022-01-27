@@ -4,7 +4,7 @@
 This program is to process data from the [API](https://api.abcfdab.cfd/) which is then entered into the database. Then this python program can be executed in the terminal code editor to display data in tabular form
 
 - This python program works for fetching response from [API](https://api.abcfdab.cfd/)
-- This python program serves to enter data from the API to the database
+- This python program serves to enter data from the [API](https://api.abcfdab.cfd/) to the database
 - This python program functions to display all data in the terminal in tabular form
 - This python program functions to display some data based on your specified limit
 - This python program functions to search data based on NIM / The Student ID Number you want to find
